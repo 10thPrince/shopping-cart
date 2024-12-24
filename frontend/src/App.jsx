@@ -8,7 +8,7 @@ import CreateProduct from './pages/CreateProduct'
 import EditProduct from './pages/EditProduct'
 import DeleteProduct from './pages/DeleteProduct'
 import ShowProduct from './pages/ShowProduct'
-import { Box } from '@chakra-ui/react'
+
 
 
 function App() {
